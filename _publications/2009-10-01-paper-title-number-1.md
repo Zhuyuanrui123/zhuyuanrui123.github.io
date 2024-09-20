@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Exploring human-centered design method selection strategies with large language models"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'In human-centered design (HCD) projects, designers select and use a variety of design methods in pursuit of a desired outcome. Given the prominence of method selection in designer behavior, what distinguishes a design team’s method selections from design method selection based on frequency or probability? To explore this question, we compare HCD methods suggested by the publicly-available large-language model, GPT-3.5, to 402 novice design team method selections over five offerings of a design projectbased learning course at a large public university. We observe that GPT-3.5 appears to represent design method knowledge held in method repositories like theDesignExchange well. We also observe that GPT-3.5’s method selection recommendations appear to poorly distinguish between HCD phases, and appear limited to highly specific aspects of HCD phases. These findings highlight the unique contribution of human design cognition in design decision-making relative to LLM’s, and herald the promise of human-AI teaming in design method selection.'
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+slidesurl: 'https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3435&context=drs-conference-papers'
+paperurl: 'https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3435&context=drs-conference-papers'
+citation: 'Rao, V., Zhu, Y., Yang, T., Kim, E., Agogino, A. and Goucher-Lambert, K., 2024. Exploring human-centered design method selection strategies with large language models.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In human-centered design (HCD) projects, designers select and use a variety of design methods in pursuit of a desired outcome. Given the prominence of method selection in designer behavior, what distinguishes a design team’s method selections from design method selection based on frequency or probability? To explore this question, we compare HCD methods suggested by the publicly-available large-language model, GPT-3.5, to 402 novice design team method selections over five offerings of a design projectbased learning course at a large public university. We observe that GPT-3.5 appears to represent design method knowledge held in method repositories like theDesignExchange well. We also observe that GPT-3.5’s method selection recommendations appear to poorly distinguish between HCD phases, and appear limited to highly specific aspects of HCD phases. These findings highlight the unique contribution of human design cognition in design decision-making relative to LLM’s, and herald the promise of human-AI teaming in design method selection.
