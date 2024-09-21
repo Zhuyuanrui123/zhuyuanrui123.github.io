@@ -7,13 +7,3 @@ venue: "University of California - Berkeley, Data Science"
 date: 2021-05-20
 location: "City, Country"
 ---
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

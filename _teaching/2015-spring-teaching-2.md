@@ -9,12 +9,3 @@ location: "City, Country"
 ---
 
 Worked on general course material improvement, led discussion sessions and held office hours
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
