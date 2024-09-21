@@ -1,8 +1,8 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant (TA)"
 collection: teaching
 type: "DATA C100. Principles & Techniques of Data Science"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2021-spring-teaching-1
 venue: "University of California - Berkeley, Data Science"
 date: 2021-05-20
 location: "City, Country"
